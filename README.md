@@ -19,7 +19,4 @@ A group messaging system built using Java to simulate chat-based group interacti
 
 ## Getting Started
 1. Clone the repository
-2. Compile and run `GroupMessagingSystem.java` from `src/main/java/com/example/messaging`
-
-## Author
-Your Name
+2. Compile and run `GroupMessagingSystem.java` from `src/main/java/com/example/messaging'
